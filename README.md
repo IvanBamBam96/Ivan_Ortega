@@ -15,10 +15,7 @@ I have knowledge in inglish and improve it permanently.
 
 ### contactate conmigo / Connect with me:
 
-
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
 <br />
 
 ### Lenguajes y herramientas / Languages and Tools:
@@ -29,9 +26,8 @@ I have knowledge in inglish and improve it permanently.
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://www.pngfind.com/pngs/m/53-535670_spring-framework-logo-spring-boot-hd-png-download.png" />]
-
 
 <br />
-<br />
-[linkedin]:https://www.linkedin.com/in/ivan-ortega-adrian/
+
+
+[linkedin]: https://www.linkedin.com/in/ivan-ortega-adrian/
