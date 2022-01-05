@@ -27,9 +27,8 @@ I have knowledge in inglish and improve it permanently.
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Spring" width="26px" src="https://cdn-aphna.nitrocdn.com/OFXwiHGWaekcBHFstRKBhwlYKJsfmLsh/assets/static/optimized/rev-1663ecc/wp-content/uploads/spring-boot-ok.png"/>
-<img align="left" alt="java" width="26px" src="https://pngset.com/images/conquer-your-targeted-industry-with-our-ace-java-practices-java-tomcat-text-plant-symbol-number-transparent-png-1225900.png"/>
-<img align="left" alt="Spring" width="26px" src="https://cdn-aphna.nitrocdn.com/OFXwiHGWaekcBHFstRKBhwlYKJsfmLsh/assets/static/optimized/rev-1663ecc/wp-content/uploads/spring-boot-ok.png"/>
+<img align="left" alt="java" width="26px" src="https://key0.cc/images/preview/98919_db472066be9431a4f8fb621b067e9168.png"/>
+<img align="left" alt="Spring" width="26px" src="https://www.armadilloamarillo.com/wp-content/uploads/course-image.png"/>
 
 <br />
 
