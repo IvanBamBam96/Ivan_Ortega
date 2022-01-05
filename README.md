@@ -27,7 +27,7 @@ I have knowledge in inglish and improve it permanently.
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="java" width="26px" src="https://cpng.pikpng.com/pngl/s/204-2047555_datei-java-logo-svg-java-logo-svg-clipart.png"/>
+<img align="left" alt="java" width="26px" src="https://revistadigital.inesem.es/informatica-y-tics/files/2015/10/inesem-java.jpg"/>
 <img align="left" alt="Spring" width="26px" src="https://www.armadilloamarillo.com/wp-content/uploads/course-image.png"/>
 
 <br />
