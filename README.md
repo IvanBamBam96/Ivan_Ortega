@@ -1,8 +1,9 @@
 ### Hi there, I'm ivan -  👋 
-
-Highly motivated, passionate, fast learner, enthusiastic about programming.
+i´m from argentina,Highly motivated, passionate, fast learner, enthusiastic about programming.
 I am responsible and a team player looking for opportunities as a developer to implement all my knowledge, continue learning and improving my skills.
+
 I have knowledge in inglish and improve it permanently.
+
 
 ## I'm a student and  Developer in constantly improvement!!
 
